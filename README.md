@@ -5,4 +5,5 @@ Hi! My name is Piero and I am a student programmer from Atlanta! I like to run, 
 
 ## Github Stats:
 *I just had to add them*
+
 ![Piero's github stats](https://github-readme-stats.vercel.app/api?username=pieromqwerty&show_icons=true)
