@@ -3,7 +3,7 @@
 ## About Me: 
 Hi! My name is Piero and I am a student programmer from Atlanta! This is my GitHub page, the home to many of my more professional and official projects. Feel free to take a look around, and you can always email me at [piero@piemadd.com](mailto:piero@piemadd.com)
 
-## Github States:
+## Github Stats:
 *I just had to add them*
 
 ![Piero's Github Stats](https://github-readme-stats.vercel.app/api?username=pieromqwerty&show_icons=true)
