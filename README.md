@@ -13,7 +13,8 @@ Hi! My name is Piero and I am a student programmer from Atlanta! I like to run, 
 ## Technologies
 *AKA stuff I can use*
 ![](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=python&logoColor=white&color=7289da)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node.js-Language-informational?style=flat&logo=node&logoColor=white&color=7289da)
+![](https://img.shields.io/badge/C++-Language-informational?style=flat&logo=cpp&logoColor=white&color=7289da)
 
 
 ## Social Media:
