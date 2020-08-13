@@ -7,4 +7,4 @@ Hi! My name is Piero and I am a student programmer from Atlanta! I like to run, 
 *I just had to add them*
 
 ![Piero's Github Stats](https://github-readme-stats.vercel.app/api?username=pieromqwerty&show_icons=true)
-![Piero's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pieromqwerty)
+![Piero's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pieromqwerty&layout=compact&theme=dark)
