@@ -98,7 +98,7 @@ Hi! My name is Piero and I am a student programmer from Atlanta! This is my GitH
 
 ### Google
 ![](https://img.shields.io/badge/Android-<WORD_ON_RIGHT>-informational?style=flat&logo=android&logoColor=white&color=bd1582)
-![](https://img.shields.io/badge/Android Auto-<WORD_ON_RIGHT>-informational?style=flat&logo=androidauto&logoColor=white&color=bd1582)
+![](https://img.shields.io/badge/AndroidAuto-<WORD_ON_RIGHT>-informational?style=flat&logo=androidauto&logoColor=white&color=bd1582)
 ![](https://img.shields.io/badge/Gmail-<WORD_ON_RIGHT>-informational?style=flat&logo=gmail&logoColor=white&color=bd1582)
 ![](https://img.shields.io/badge/Google-<WORD_ON_RIGHT>-informational?style=flat&logo=google&logoColor=white&color=bd1582)
 ![](https://img.shields.io/badge/GoogleAssistant-<WORD_ON_RIGHT>-informational?style=flat&logo=googleassistant&logoColor=white&color=bd1582)
@@ -115,6 +115,6 @@ Hi! My name is Piero and I am a student programmer from Atlanta! This is my GitH
 ### Hosting
 ![](https://img.shields.io/badge/AWS-<WORD_ON_RIGHT>-informational?style=flat&logo=amazonaws&logoColor=white&color=7289da)
 ![](https://img.shields.io/badge/Docker-<WORD_ON_RIGHT>-informational?style=flat&logo=docker&logoColor=white&color=7289da)
-![](https://img.shields.io/badge/Google Cloud-<WORD_ON_RIGHT>-informational?style=flat&logo=googlecloud&logoColor=white&color=7289da)
+![](https://img.shields.io/badge/GoogleCloud-<WORD_ON_RIGHT>-informational?style=flat&logo=googlecloud&logoColor=white&color=7289da)
 ![](https://img.shields.io/badge/MicrosoftAzure-<WORD_ON_RIGHT>-informational?style=flat&logo=microsoftazure&logoColor=white&color=7289da)
 ![](https://img.shields.io/badge/Proxmox-<WORD_ON_RIGHT>-informational?style=flat&logo=proxmox&logoColor=white&color=7289da)
