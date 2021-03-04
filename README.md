@@ -8,7 +8,7 @@ Hi! My name is Piero and I am a student programmer from Atlanta! This is my GitH
 
 ![Piero's Github Stats](https://github-readme-stats.vercel.app/api?username=pieromqwerty&show_icons=true&theme=dark)
 
-![Piero's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pieromqwerty)
+![Piero's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pieromqwerty&theme=dark)
 
 ## Social Media
 *coming soon since im lazy*
