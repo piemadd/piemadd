@@ -6,7 +6,7 @@ Hi! My name is Piero and I am a student programmer from Atlanta! This is my GitH
 ## Github Stats:
 *I just had to add them*
 
-![Piero's Github Stats](https://github-readme-stats.vercel.app/api?username=pieromqwerty&show_icons=true)
+![Piero's Github Stats](https://github-readme-stats.vercel.app/api?username=pieromqwerty&show_icons=true&theme=dark)
 
 ![Piero's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pieromqwerty)
 
