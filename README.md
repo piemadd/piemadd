@@ -1,7 +1,7 @@
 # Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## About Me: 
-Hi! My name is Piero and I am a student programmer from Atlanta! This is my GitHub page, the home to many of my more professional and official projects. Feel free to take a look around, and you can always email me at [piero@piemadd.com](mailto:piero@piemadd.com)
+Hi! My name is Piero and I am a student programmer from Atlanta (uni in Chicago)! This is my GitHub page, the home to many of my more professional and official projects. Feel free to take a look around, and you can always email me at [piero@piemadd.com](mailto:piero@piemadd.com)
 
 ## Github Stats:
 ![Piero's Github Stats](https://github-readme-stats.vercel.app/api?username=pieromqwerty&show_icons=true&theme=dark)
