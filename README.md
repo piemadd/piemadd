@@ -5,6 +5,7 @@ Hi! My name is Piero and I am a student programmer from Atlanta (uni in Chicago)
 
 ## Github Stats:
 ![Piero's Github Stats](https://github-readme-stats.vercel.app/api?username=pieromqwerty&show_icons=true&theme=dark)
+![Piero's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pieromqwerty&layout=compact&theme=darl)
 
 ## Social Media
 *coming soon since im lazy*
